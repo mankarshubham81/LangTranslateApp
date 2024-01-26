@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-  border-color: rgba(159, 103, 159, 0.933);
+  border-color: rgba(113, 232, 232, 0.933);
 }
 
 button.selected {
